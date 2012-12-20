@@ -1,6 +1,8 @@
 # 文件上传插件
 ### 兼容多浏览器的无需flash的单文件上传工具
-### 修改自[iupload.js]: https://github.com/dperrymorrow/iupload.js  "iupload.js project"
+### 修改自[iupload.js](https://github.com/dperrymorrow/iupload.js  "iupload.js project")，感谢原作者。
+#### 上传增加文件扩展名检查
+#### 上传后增加文件名混淆，防止利用[php漏洞](http://zone.wooyun.org/content/1998)进行攻击
 
 # 使用方法
 
